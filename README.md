@@ -5,13 +5,13 @@
 
 ---
 
-## What's This About?
+## Brief Intro
 
 I developed a synthetic data generation pipeline using discrete-event queue simulation to train and evaluate five machine learning models. The objective? Determine which algorithm most accurately predicts waiting times in service queue systems. **The winner: Random Forest.**
 
 ---
 
-## The Big Picture
+## Main Goal
 ```
 Simulate Queue Scenarios → Generate Training Data → Train 5 ML Models → Compare Performance
 ```
